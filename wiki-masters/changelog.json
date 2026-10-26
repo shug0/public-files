@@ -1,0 +1,13 @@
+{
+  "next": [],
+  "releases": [
+    {
+      "version": "1.4.0",
+      "date": "2026-10-26",
+      "items": [
+        "Sur Android, les boutons du bas de l'écran ne passent plus sous la barre de navigation ni sous la barre des tâches des tablettes.",
+        "Le bandeau de mise à jour montre les nouveautés de la version proposée, et l'app les affiche au premier démarrage après la mise à jour."
+      ]
+    }
+  ]
+}
