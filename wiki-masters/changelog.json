@@ -2,6 +2,21 @@
   "next": [],
   "releases": [
     {
+      "version": "1.5.0",
+      "date": "2026-10-27",
+      "items": [
+        "Sur une tablette Android, le bas de l'écran ne passe plus sous la barre des tâches.",
+        "Le mode tri commence par les cartes qu'Auto sait ranger dans tes étiquettes, puis par celles au-dessus du seuil de revente, de la plus chère à la moins chère. Les autres suivent, des plus rares aux plus communes.",
+        "Pendant une mise à jour, « État de l'app » liste les étapes et coche celles qui sont finies. La barre avance en continu, et la pastille affiche le même pourcentage.",
+        "Sur tablette et téléphone, une carte ne se glisse plus vers une zone : on touche la zone pour la ranger.",
+        "Les prix de plus de 24 h sont relus en arrière-plan, des plus anciens aux plus récents, sans chargement dans la pastille : « État de l'app » les montre sous « En arrière-plan ». « Relire », sur la ligne Prix, relit tous les prix.",
+        "En ouvrant Revendre, les cartes du bac sans prix ou au prix de plus de 3 jours sont lues en premier.",
+        "À l'ouverture du tri, si des prix de la file manquent ou ont plus de 3 jours, l'app les lit d'abord et montre l'avancement. Le tri s'ouvre tout seul à la fin, ou tout de suite avec « Trier quand même ».",
+        "L'extrait Wikipédia d'une carte et ses annonces sur le site se lisent maintenant au clic, avec « Lire l'extrait » et « Voir les annonces », au lieu d'une lecture à chaque carte affichée.",
+        "Dans le tri, deux gros boutons sous la carte, à portée de pouce : « Annuler » à gauche, « Passer » à droite."
+      ]
+    },
+    {
       "version": "1.4.0",
       "date": "2026-10-26",
       "items": [
