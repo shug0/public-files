@@ -2,6 +2,25 @@
   "next": [],
   "releases": [
     {
+      "version": "1.6.0",
+      "date": "2026-10-28",
+      "items": [
+        "Sur tablette et téléphone, une carte ouverte prend tout l'écran. « ‹ Collection » en haut ramène à la liste, le prix et les étiquettes sont dans un même cadre juste dessous, et les flèches et Vue / Édition sont en bas, sous le pouce.",
+        "L'image de la carte est plus grande et cadrée sur le haut de la photo. L'extrait s'affiche en paragraphes. Sur tablette et téléphone, son texte grandit avec la carte et passe par-dessus l'image quand on le fait défiler.",
+        "Dans le tri sur téléphone, la carte ne montre que l'image, le titre et la catégorie. La toucher l'agrandit avec son extrait, ATK et DEF.",
+        "Le tri sur téléphone et tablette passe aussi en plein écran. En haut, « ‹ » pour revenir, la carte en cours et le nombre de cartes restantes, puis le même cadre que la carte ouverte : prix, étiquettes posées et proposition des règles. La carte et ses zones descendent en bas de l'écran, plus près du pouce.",
+        "Sur téléphone, l'onglet À trier résume d'abord la file : cartes par rareté, cartes sans prix, et l'ordre dans lequel elles vont passer. « Lancer le tri » l'ouvre. Pendant la lecture des prix, le bouton devient « Lancer sans attendre ».",
+        "« Appliquer les règles » disparaît : les cartes se trient une à une, et les règles proposent toujours un bac pour chacune.",
+        "Sur téléphone, la barre du bas ne garde que Collection, À trier et Revendre. En haut à droite, une boîte ouvre les paquets et montre combien sont disponibles, et l'engrenage mène à Plans et aux Réglages.",
+        "Quand la fenêtre est trop étroite pour l'en-tête sur une ligne, l'app passe à l'en-tête et à la barre du bas du téléphone.",
+        "Les icônes de l'app viennent d'un même jeu, Lucide, avec un trait homogène partout.",
+        "Dans la grille de la Collection, l'image de chaque carte prend toute la place que laissent le titre, la catégorie et les stats, cadrée sur le haut. La catégorie s'affiche aussi sur téléphone.",
+        "Sur téléphone et tablette, la recherche et le bouton Filtres sont moins hauts.",
+        "Sur téléphone, si les paquets ne s'ouvrent pas, la raison s'affiche sous leur bouton.",
+        "Passer de l'en-tête du bureau à celui du téléphone, en redimensionnant la fenêtre, garde l'écran tel quel : filtres, sélection et tri en cours."
+      ]
+    },
+    {
       "version": "1.5.0",
       "date": "2026-10-27",
       "items": [
