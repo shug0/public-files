@@ -2,6 +2,13 @@
   "next": [],
   "releases": [
     {
+      "version": "1.9.0",
+      "date": "2026-10-30",
+      "items": [
+        "L'app envoie une fois par jour des statistiques anonymes : système, version, tailles d'écran et une empreinte de ton compte, rien sur ta collection. Tu peux les couper dans Réglages › Compte."
+      ]
+    },
+    {
       "version": "1.8.0",
       "date": "2026-10-30",
       "items": [
