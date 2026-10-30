@@ -2,6 +2,18 @@
   "next": [],
   "releases": [
     {
+      "version": "1.8.0",
+      "date": "2026-10-30",
+      "items": [
+        "Nouvel onglet Encyclopédie : toutes les cartes du jeu, possédées ou non. L'accueil propose de chercher un titre, avec des mots tirés de tes étiquettes, ou de parcourir les plus vues sur Wikipédia. Coche une ou plusieurs raretés, comme dans les filtres de la Collection, et choisis la grille ou la liste, avec le cœur à droite de chaque ligne. La recherche porte sur le titre, ou sur son début quand les Communes en font partie.",
+        "Ta liste de souhaits est dans l'app, sous Souhaits en bas de l'Encyclopédie. Le cœur d'une carte l'y ajoute ou l'en retire, depuis l'Encyclopédie comme depuis une carte ouverte, et « Sélectionner » en retire plusieurs.",
+        "Sur téléphone, l'Encyclopédie est le quatrième onglet de la barre du bas.",
+        "Sur ordinateur, la pastille d'état ne garde que son point et un texte court, et le bouton Paquets montre une boîte à la place du mot. Le texte entier s'affiche au survol.",
+        "Pendant que l'Encyclopédie lit le site, « Lecture des cartes… » s'affiche en haut avec une barre qui avance, et dessous, dans un cadre, le début de l'article Wikipédia d'une carte de ta collection, le temps de le lire. « Ajouter aux favoris » met la carte en favori. Dans Souhaits, des tuiles vides tiennent la place des cartes pendant la lecture.",
+        "À l'ouverture du tri, pendant la lecture des prix de la file, un article Wikipédia d'une carte de ta collection s'affiche sous le compteur."
+      ]
+    },
+    {
       "version": "1.7.0",
       "date": "2026-10-28",
       "items": [
