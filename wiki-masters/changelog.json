@@ -2,11 +2,25 @@
   "next": [],
   "releases": [
     {
+      "version": "1.10.0",
+      "date": "2026-11-06",
+      "items": [
+        "L'app garde l'historique de tes ventes, au-delà des 50 dernières que montre le site. Une carte qui n'a pas trouvé d'acheteur 2 fois de suite porte une pastille dans À revendre, et « Vendre… » propose une mise de départ 30 % plus basse ou la Défausse. La carte ouverte liste ses mises en vente passées, et le nombre d'échecs se règle dans Réglages › Ventes.",
+        "Une cloche dans l'en-tête montre les notifications du site : mise dépassée, vente conclue, enchère sans acheteur, offre d'échange. Les cartes de ta liste mises en vente tiennent en une ligne, qui ouvre le Marché sur « Mes souhaits ». Le nombre sur la cloche compte ce qui est arrivé depuis ta dernière visite, sans rien marquer comme lu sur le site.",
+        "Dans l'en-tête, les paquets ont maintenant l'icône d'un sachet de cartes, et l'état de l'app celle d'un nuage : coché quand tout est à jour, avec un point d'exclamation en cas d'échec, barré en pause.",
+        "Les échanges entre joueurs arrivent dans À revendre, sous « Échanges » : offres reçues et envoyées, historique, et Accepter, Refuser, Annuler ou Contre-proposer. « Proposer un échange » te fait choisir un ami ou un joueur par son pseudo, puis ses cartes, les tiennes et des wikibidous de chaque côté. Un échange accepté met ta collection à jour.",
+        "Dans le Marché, « Mes souhaits » liste toutes les annonces des cartes de ta liste, avec les mêmes tris et filtres, et « Pas encore à moi » n'y garde que les cartes que tu n'as pas. Dans Souhaits, « N en vente » y mène, et une pastille « En vente » marque ces cartes.",
+        "Dans Souhaits, « Sélection » › « Les possédées » coche d'un coup les cartes de ta liste que tu as déjà : décoche celles à garder, puis retire les autres ensemble.",
+        "Le choix entre Toutes, Souhaits et Marché passe en haut de l'Encyclopédie : à côté de la recherche sur ordinateur, sur la première ligne de la vue sur téléphone.",
+        "Une carte de l'Encyclopédie ou de Souhaits s'ouvre d'un clic : prix moyen, annonces du site, extrait de l'article, et « Voir dans la Collection » si tu la possèdes.",
+        "Tu peux miser depuis l'app. Une enchère s'ouvre depuis le Marché, depuis les annonces d'une carte ouverte ou depuis la nouvelle liste « Mises » d'À revendre. La fiche montre la mise à battre face au prix moyen et le temps restant, avec un champ déjà rempli au minimum : « Miser » envoie la mise d'un clic.",
+        "Marché, troisième choix de l'Encyclopédie après Toutes et Souhaits : les annonces de tout le site en liste, des moins chères, des plus récentes ou de celles qui finissent bientôt, d'une rareté ou de toutes. Chaque ligne donne la mise à battre, son écart au prix moyen et le temps restant, et ouvre l'enchère. « Pas encore à moi » cache les cartes que tu as déjà."
+      ]
+    },
+    {
       "version": "1.9.1",
       "date": "2026-10-30",
-      "items": [
-        "L'app s'ouvre de nouveau : la 1.9.0 restait sur un écran noir."
-      ]
+      "items": ["L'app s'ouvre de nouveau : la 1.9.0 restait sur un écran noir."]
     },
     {
       "version": "1.9.0",
