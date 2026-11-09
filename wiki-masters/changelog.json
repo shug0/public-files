@@ -2,6 +2,17 @@
   "next": [],
   "releases": [
     {
+      "version": "1.11.0",
+      "date": "2026-11-09",
+      "items": [
+        "Une étiquette créée, renommée, recolorée ou supprimée sur le site apparaît dans l'app dès la mise à jour suivante. Avant, il fallait parfois attendre jusqu'à 7 jours.",
+        "Dans le Marché, sur « Mes souhaits », « Miser N » place la plus petite mise acceptée d'un clic, sans ouvrir l'enchère. Tu peux en cliquer plusieurs : elles partent l'une après l'autre, et chaque ligne montre sa place dans la file.",
+        "Une enchère s'ouvre tout de suite avec ce que la liste en sait, sans attendre le site. Sur téléphone, elle monte du bas de l'écran au lieu de le remplir.",
+        "Une carte proposée dans un échange en attente sort d'À trier, d'À revendre et de la Défausse jusqu'à la réponse.",
+        "Dans À revendre, le bouton de relecture marche aussi pendant une mise à jour : le marché se relit dès qu'elle finit."
+      ]
+    },
+    {
       "version": "1.10.0",
       "date": "2026-11-06",
       "items": [
@@ -20,7 +31,9 @@
     {
       "version": "1.9.1",
       "date": "2026-10-30",
-      "items": ["L'app s'ouvre de nouveau : la 1.9.0 restait sur un écran noir."]
+      "items": [
+        "L'app s'ouvre de nouveau : la 1.9.0 restait sur un écran noir."
+      ]
     },
     {
       "version": "1.9.0",
