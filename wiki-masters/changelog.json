@@ -2,6 +2,14 @@
   "next": [],
   "releases": [
     {
+      "version": "1.12.0",
+      "date": "2026-11-09",
+      "items": [
+        "La cloche range ses notifications sous de petits titres : enchères gagnées, échanges, ventes, mises dépassées, souhaits en vente. Les mises dépassées, fréquentes, ne cachent plus le reste.",
+        "Les prix se lisent par lots de 100 cartes au lieu de 50. Quand le site coupe une lecture trop lourde, l'app la reprend en lots plus petits au lieu d'attendre de plus en plus longtemps."
+      ]
+    },
+    {
       "version": "1.11.0",
       "date": "2026-11-09",
       "items": [
@@ -31,9 +39,7 @@
     {
       "version": "1.9.1",
       "date": "2026-10-30",
-      "items": [
-        "L'app s'ouvre de nouveau : la 1.9.0 restait sur un écran noir."
-      ]
+      "items": ["L'app s'ouvre de nouveau : la 1.9.0 restait sur un écran noir."]
     },
     {
       "version": "1.9.0",
