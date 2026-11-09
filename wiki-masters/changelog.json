@@ -2,6 +2,17 @@
   "next": [],
   "releases": [
     {
+      "version": "1.13.0",
+      "date": "2026-11-09",
+      "items": [
+        "Quand le site demande sa vérification anti-robot pour une mise, une carte au milieu de la liste ouvre sa page pour la faire. Au retour, « Miser » relance la mise. La fiche d'une enchère reconnaît aussi ce blocage.",
+        "Sur téléphone, le tri et la rareté du Marché passent en deux icônes à côté de la recherche, qui retrouve sa largeur. Le solde s'affiche dans la barre, et « Pas encore à moi » devient « À avoir ».",
+        "Sur téléphone, le panneau des notifications monte plus haut et ses lignes sont plus compactes.",
+        "« Miser N » est aussi sur toutes les annonces du Marché, pas seulement sur « Mes souhaits ».",
+        "Quand le site refuse une mise rapide parce que le prix a bougé, l'app relit l'enchère : la ligne propose le bon montant, ou passe « en tête » si tu avais déjà misé sur le site."
+      ]
+    },
+    {
       "version": "1.12.1",
       "date": "2026-11-09",
       "items": [
