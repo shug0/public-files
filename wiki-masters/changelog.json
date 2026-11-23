@@ -2,6 +2,14 @@
   "next": [],
   "releases": [
     {
+      "version": "1.13.1",
+      "date": "2026-11-23",
+      "items": [
+        "Le site bloque maintenant la lecture des prix en masse. L'app lit le prix d'une carte quand tu l'ouvres, la tries ou la mets en vente, et le garde 3 jours. La ligne « Prix » du panneau d'état disparaît.",
+        "« Mes souhaits » dans le Marché et la pastille « En vente » de la liste de souhaits disparaissent : le site ne permet plus de retrouver ces annonces."
+      ]
+    },
+    {
       "version": "1.13.0",
       "date": "2026-11-09",
       "items": [
